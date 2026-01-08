@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "レムニスケート",
+  "base_artist": "東京真中",
+  "createdAt": "2026-01-08T12:43:04.247869Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レムニスケート",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/pl_01_レムニスケート_東京真中.txt"
+    }
+  ]
+}
